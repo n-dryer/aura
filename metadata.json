@@ -1,0 +1,7 @@
+{
+  "name": "AURA - Drop-to-Deploy Personal Website",
+  "description": "Drop a PDF, get a bespoke personal website in <60 seconds. Powered by Gemini 3.0 Pro.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
